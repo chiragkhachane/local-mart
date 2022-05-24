@@ -16,8 +16,8 @@ const config = {
     "sk_test_51IDxvmGENzKU2dPwmkzTnR1v2P8JseEiAdDQbsxoPJ3AY0pRyrtMe5aT6ZOn3sD5NNGPMPXMlyEsVxhoMcc2UjCd00ytwJqUVR",
   stripe_test_api_key:
     "pk_test_51IDxvmGENzKU2dPwn1CIhOAKtRn8RY78Gg6LeUNlq6GOtbS6MWBLCCohf2WbgACsyqMrbY4xdj6n4SZ3McFVbjUF003NlTJ0ex",
-  AWS_ACCESS_KEY_ID: "AKIAST2FPPNPRERIFZSK",
-  AWS_SECRET_ACCESS_KEY: "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",
+  AWS_ACCESS_KEY_ID: "",
+  AWS_SECRET_ACCESS_KEY: "",
   AWS_REGION: "us-east-1",
   EMAIL_FROM: "persistent2021@gmail.com",
   EMIAL_PW: "beproject",
